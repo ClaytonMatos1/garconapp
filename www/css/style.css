@@ -1,0 +1,24 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.top-fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.top-title {
+    font-size: 1.3rem;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+.tabs .indicator {
+    background-color: white;
+}
+
+.section {
+    padding-top: 125px;
+}

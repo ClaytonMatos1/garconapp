@@ -1,0 +1,8 @@
+# Modulos
+node_modules
+# Plataformas
+platforms
+# Plugins
+plugins
+# Log debug
+npm-debug.log
